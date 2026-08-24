@@ -736,6 +736,50 @@
       }
     },
     {
+      "id": "sindpao-rp",
+      "name": "Sindpao Rp",
+      "description": "Modelo de declaração compartilhado pela organização Sindpao Rp.",
+      "author": "Matheus",
+      "version": "1.0",
+      "updated_at": "24/08/2026",
+      "file_path": "templates/sindpao_rp.docx",
+      "sha256": "a1d24d0be06db4337779a6b01da5b7436eca870d90526d39e0efaa59e75d7258",
+      "tags": [
+        "declaração",
+        "benefícios",
+        "Sindpao Rp"
+      ],
+      "config": {
+        "anchor_texts": [
+          "A Cesta de Beneficios esta com estes funcionarios ATIVOS:"
+        ],
+        "cidade_padrao": "Sao Paulo",
+        "signature_width_inches": 1.92,
+        "signature_align": "LEFT",
+        "signature_vertical": "BOTTOM",
+        "signature_offset_x_inches": -1,
+        "signature_offset_y_inches": 0,
+        "benefits": {
+          "supports": {
+            "seguro_vida": true,
+            "telemedicina": true,
+            "odonto": true
+          },
+          "defaults_manual": {
+            "seguro_vida": true,
+            "telemedicina": true,
+            "odonto": true
+          },
+          "fixed_items": [],
+          "labels": {
+            "seguro_vida": "SEGURO DE VIDA em Grupo",
+            "telemedicina": "TELEMEDICINA",
+            "odonto": "PLANO ODONTOLÓGICO"
+          }
+        }
+      }
+    },
+    {
       "id": "taubate",
       "name": "Taubaté",
       "description": "Modelo de declaração utilizado pela organização Taubaté.",

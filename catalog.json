@@ -229,6 +229,52 @@
       }
     },
     {
+      "id": "jales",
+      "name": "Jales",
+      "description": "Modelo de declaração compartilhado pela organização Jales.",
+      "author": "Matheus",
+      "version": "1.0",
+      "updated_at": "24/08/2026",
+      "file_path": "templates/jales.docx",
+      "sha256": "632800754c1063c74774cc401e9364fcf7b197f7cd9a97c28227daaa3bcda97a",
+      "tags": [
+        "declaração",
+        "benefícios",
+        "Jales"
+      ],
+      "config": {
+        "anchor_texts": [
+          "O PLANO ESTÁ ATIVO PARA OS COLABORADORES ABAIXO:"
+        ],
+        "cidade_padrao": "Sao Paulo",
+        "signature_width_inches": 1.92,
+        "signature_align": "LEFT",
+        "signature_vertical": "BOTTOM",
+        "signature_offset_x_inches": -1,
+        "signature_offset_y_inches": 0,
+        "benefits": {
+          "supports": {
+            "seguro_vida": true,
+            "telemedicina": false,
+            "odonto": true
+          },
+          "defaults_manual": {
+            "seguro_vida": true,
+            "telemedicina": false,
+            "odonto": true
+          },
+          "fixed_items": [
+            "ORIENTAÇÕES MÉDICAS POR TELEFONE E DEMAIS ASSISTÊNCIAS"
+          ],
+          "labels": {
+            "seguro_vida": "SEGURO DE VIDA em Grupo",
+            "telemedicina": "TELEMEDICINA",
+            "odonto": "PLANO ODONTOLÓGICO"
+          }
+        }
+      }
+    },
+    {
       "id": "litoral-norte",
       "name": "Litoral Norte",
       "description": "Modelo de declaração utilizado pela organização Litoral Norte.",

@@ -232,6 +232,54 @@
       }
     },
     {
+      "id": "ribeir-o-preto-v2",
+      "name": "Ribeir O Preto V2",
+      "description": "Modelo de declaração compartilhado pela organização Ribeir O Preto V2.",
+      "author": "Matheus",
+      "version": "1.0",
+      "updated_at": "24/08/2026",
+      "file_path": "templates/ribeir_o_preto_v2.docx",
+      "sha256": "49292c4b296d3607d359b423d420cebe7031248c0e4f74d2bfd42e1b1289780f",
+      "tags": [
+        "declaração",
+        "benefícios",
+        "Ribeir O Preto V2"
+      ],
+      "config": {
+        "anchor_texts": [
+          "A Cesta de Beneficios esta com estes funcionarios ATIVOS:"
+        ],
+        "cidade_padrao": "Sao Paulo",
+        "signature_width_inches": 1.92,
+        "signature_align": "LEFT",
+        "signature_vertical": "BOTTOM",
+        "signature_offset_x_inches": -1,
+        "signature_offset_y_inches": 0,
+        "benefits": {
+          "supports": {
+            "seguro_vida": true,
+            "telemedicina": true,
+            "odonto": true
+          },
+          "defaults_manual": {
+            "seguro_vida": true,
+            "telemedicina": false,
+            "odonto": false
+          },
+          "fixed_items": [
+            "CESSÃO DE EQUIPAMENTO HOSPITALARES",
+            "QUESTIONÁRIO FORMULARIO NR1",
+            "PAGAMENTO DE CONTA DE CELULAR EM CASO DE DESEMPREGO"
+          ],
+          "labels": {
+            "seguro_vida": "SEGURO DE VIDA em Grupo",
+            "telemedicina": "TELEMEDICINA",
+            "odonto": "PLANO ODONTOLÓGICO"
+          }
+        }
+      }
+    },
+    {
       "id": "ribeirao-preto",
       "name": "Ribeirão Preto",
       "description": "Modelo de declaração compartilhado pela organização Ribeirão Preto.",

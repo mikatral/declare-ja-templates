@@ -189,9 +189,9 @@
       "id": "aracatuba",
       "name": "Aracatuba",
       "description": "Modelo de declaração compartilhado pela organização Aracatuba.",
-      "author": "Matheus",
-      "version": "1.0",
-      "updated_at": "24/08/2026",
+      "author": "Marcos",
+      "version": "1.1",
+      "updated_at": "27/08/2026",
       "file_path": "templates/aracatuba.docx",
       "sha256": "20a318e9a33d89c49e99bb8dcea593131f56e8ab3a825ac0d4181bcd7be0e6f9",
       "tags": [

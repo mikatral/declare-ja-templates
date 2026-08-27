@@ -413,12 +413,12 @@
     {
       "id": "litoral-norte",
       "name": "Litoral Norte",
-      "description": "Modelo de declaração utilizado pela organização Litoral Norte.",
-      "author": "Equipe Declare Já",
-      "version": "1.0",
-      "updated_at": "21/08/2026",
+      "description": "Modelo de declaração compartilhado pela organização Litoral Norte.",
+      "author": "Marcos",
+      "version": "1.1",
+      "updated_at": "27/08/2026",
       "file_path": "templates/litoral_norte.docx",
-      "sha256": "7509e589327522b5beca09482f83f5c27171a1cedd0e817241dd81b941ee8b35",
+      "sha256": "0c17ac63f69b51bcbfa5a8db5b5accf582299962f03770e6ef06fff36e3320d4",
       "tags": [
         "declaração",
         "benefícios",
@@ -442,18 +442,18 @@
           },
           "defaults_manual": {
             "seguro_vida": true,
-            "telemedicina": true,
-            "odonto": true
-          },
-          "labels": {
-            "seguro_vida": "SEGURO DE VIDA em Grupo",
-            "telemedicina": "TELEMEDICINA POR VÍDEO CHAMADA",
-            "odonto": "PLANO ODONTOLÓGICO"
+            "telemedicina": false,
+            "odonto": false
           },
           "fixed_items": [
             "CESSÃO DE EQUIPAMENTOS HOSPITALARES",
-            "QUESTIONÁRIO PRELIMINAR NR1"
-          ]
+            "FORMULÁRIOS NR1"
+          ],
+          "labels": {
+            "seguro_vida": "SEGURO DE VIDA em Grupo",
+            "telemedicina": "TELEMEDICINA",
+            "odonto": "PLANO ODONTOLÓGICO"
+          }
         }
       }
     },

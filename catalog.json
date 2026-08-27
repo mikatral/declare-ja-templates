@@ -331,10 +331,10 @@
       "name": "Botucatu",
       "description": "Modelo de declaração compartilhado pela organização Botucatu.",
       "author": "Marcos",
-      "version": "1.2",
+      "version": "1.3",
       "updated_at": "27/08/2026",
       "file_path": "templates/aracatuba.docx",
-      "sha256": "20a318e9a33d89c49e99bb8dcea593131f56e8ab3a825ac0d4181bcd7be0e6f9",
+      "sha256": "fec92eb8761e75297d04a132c2d9eb05fd28842254fe3909730d019bcd90bbff",
       "tags": [
         "declaração",
         "benefícios",
@@ -342,7 +342,7 @@
       ],
       "config": {
         "anchor_texts": [
-          "A Cesta de Beneficios esta ativa para os colaboradores abaixo:"
+          "A Cesta de Benefícios está ativa para os colaboradores abaixo:"
         ],
         "cidade_padrao": "Sao Paulo",
         "signature_width_inches": 1.92,

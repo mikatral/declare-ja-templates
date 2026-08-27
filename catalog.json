@@ -787,9 +787,9 @@
       "id": "sindinformatica",
       "name": "Sindinformatica",
       "description": "Modelo de declaração compartilhado pela organização Sindinformatica.",
-      "author": "Matheus",
-      "version": "1.0",
-      "updated_at": "24/08/2026",
+      "author": "Marcos",
+      "version": "1.1",
+      "updated_at": "27/08/2026",
       "file_path": "templates/sindinformatica.docx",
       "sha256": "3fb835bbec92c12d07335d31435a27b9c3454b126f4ffb05997a5bdd80852af1",
       "tags": [

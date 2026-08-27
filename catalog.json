@@ -459,9 +459,9 @@
       "id": "jales",
       "name": "Jales",
       "description": "Modelo de declaração compartilhado pela organização Jales.",
-      "author": "Matheus",
-      "version": "1.0",
-      "updated_at": "24/08/2026",
+      "author": "Marcos",
+      "version": "1.1",
+      "updated_at": "27/08/2026",
       "file_path": "templates/jales.docx",
       "sha256": "632800754c1063c74774cc401e9364fcf7b197f7cd9a97c28227daaa3bcda97a",
       "tags": [

@@ -231,6 +231,50 @@
       }
     },
     {
+      "id": "campos-do-jordao-df1ce282",
+      "name": "Campos Do Jordao",
+      "description": "Modelo de declaração compartilhado pela organização Campos Do Jordao.",
+      "author": "Marcos",
+      "version": "1.0",
+      "updated_at": "27/08/2026",
+      "file_path": "templates/campos_do_jordao_df1ce282.docx",
+      "sha256": "df1ce282c69efdf191ccf829bb1c2059940b360a55c3d947384c8b0aea87f79e",
+      "tags": [
+        "declaração",
+        "benefícios",
+        "Campos Do Jordao"
+      ],
+      "config": {
+        "anchor_texts": [
+          "O PLANO ESTÁ ATIVO PARA OS COLABORADORES ABAIXO:"
+        ],
+        "cidade_padrao": "Sao Paulo",
+        "signature_width_inches": 1.92,
+        "signature_align": "LEFT",
+        "signature_vertical": "BOTTOM",
+        "signature_offset_x_inches": -1,
+        "signature_offset_y_inches": 0,
+        "benefits": {
+          "supports": {
+            "seguro_vida": true,
+            "telemedicina": true,
+            "odonto": true
+          },
+          "defaults_manual": {
+            "seguro_vida": true,
+            "telemedicina": true,
+            "odonto": false
+          },
+          "fixed_items": [],
+          "labels": {
+            "seguro_vida": "SEGURO DE VIDA em Grupo",
+            "telemedicina": "TELEMEDICINA",
+            "odonto": "PLANO ODONTOLÓGICO"
+          }
+        }
+      }
+    },
+    {
       "id": "campos-do-jordao",
       "name": "Campos do Jordão",
       "description": "Modelo de declaração utilizado pela organização Campos do Jordão.",

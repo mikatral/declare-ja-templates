@@ -1066,8 +1066,8 @@
       "name": "Sao Jose Dos Campos",
       "description": "Modelo de declaração compartilhado pela organização Sao Jose Dos Campos.",
       "author": "Marcos",
-      "version": "1.0",
-      "updated_at": "27/08/2026",
+      "version": "1.1",
+      "updated_at": "31/08/2026",
       "file_path": "templates/sao_jose_dos_campos_cbc1db5d.docx",
       "sha256": "cbc1db5d3da3f430f2f67dee3affbd079c257265823242c4952179296685890e",
       "tags": [
@@ -1096,7 +1096,9 @@
             "telemedicina": true,
             "odonto": false
           },
-          "fixed_items": [],
+          "fixed_items": [
+            "QUESTIONÁRIOS PRELIMINAR NR-1"
+          ],
           "labels": {
             "seguro_vida": "SEGURO DE VIDA em Grupo",
             "telemedicina": "TELEMEDICINA",

@@ -738,17 +738,17 @@
     },
     {
       "id": "campos-do-jordao-df1ce282",
-      "name": "Pacto S O Paulo",
-      "description": "Modelo de declaração compartilhado pela organização Pacto S O Paulo.",
+      "name": "Pacto SAO PAULO",
+      "description": "Modelo de declaração compartilhado pela organização Pacto SAO PAULO.",
       "author": "Marcos",
-      "version": "1.1",
+      "version": "1.2",
       "updated_at": "03/09/2026",
       "file_path": "templates/campos_do_jordao_df1ce282.docx",
       "sha256": "df1ce282c69efdf191ccf829bb1c2059940b360a55c3d947384c8b0aea87f79e",
       "tags": [
         "declaração",
         "benefícios",
-        "Pacto S O Paulo"
+        "Pacto SAO PAULO"
       ],
       "config": {
         "anchor_texts": [

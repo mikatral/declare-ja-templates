@@ -646,11 +646,11 @@
       "id": "litoral-norte",
       "name": "Litoral Norte",
       "description": "Modelo de declaração compartilhado pela organização Litoral Norte.",
-      "author": "Marcos",
-      "version": "1.1",
-      "updated_at": "27/08/2026",
+      "author": "Pedro",
+      "version": "1.2",
+      "updated_at": "10/09/2026",
       "file_path": "templates/litoral_norte.docx",
-      "sha256": "0c17ac63f69b51bcbfa5a8db5b5accf582299962f03770e6ef06fff36e3320d4",
+      "sha256": "60e80a91868d022c95fb33740c557af6efe359776c19c470396fbe5fb6d14593",
       "tags": [
         "declaração",
         "benefícios",
@@ -674,13 +674,10 @@
           },
           "defaults_manual": {
             "seguro_vida": true,
-            "telemedicina": false,
-            "odonto": false
+            "telemedicina": true,
+            "odonto": true
           },
-          "fixed_items": [
-            "CESSÃO DE EQUIPAMENTOS HOSPITALARES",
-            "FORMULÁRIOS NR1"
-          ],
+          "fixed_items": [],
           "labels": {
             "seguro_vida": "SEGURO DE VIDA em Grupo",
             "telemedicina": "TELEMEDICINA",

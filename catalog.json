@@ -1329,12 +1329,12 @@
     {
       "id": "taubate",
       "name": "Taubaté",
-      "description": "Modelo de declaração utilizado pela organização Taubaté.",
-      "author": "Equipe Declare Já",
-      "version": "1.0",
-      "updated_at": "21/08/2026",
+      "description": "Modelo de declaração compartilhado pela organização Taubaté.",
+      "author": "Pedro",
+      "version": "1.1",
+      "updated_at": "10/09/2026",
       "file_path": "templates/taubate.docx",
-      "sha256": "fb412743939e91d05b084a6a4ae5ca9b4f2195a381d4706bc1a8b5793d155fd7",
+      "sha256": "5122e234380ccd8da2505073a318e6d48bd767f060dea0695d6e8b0110a2c67f",
       "tags": [
         "declaração",
         "benefícios",
@@ -1361,14 +1361,12 @@
             "telemedicina": true,
             "odonto": true
           },
+          "fixed_items": [],
           "labels": {
-            "seguro_vida": "SEGURO DE VIDA em Grupo com as Assistências",
+            "seguro_vida": "SEGURO DE VIDA em Grupo",
             "telemedicina": "TELEMEDICINA",
             "odonto": "PLANO ODONTOLÓGICO"
-          },
-          "fixed_items": [
-            "QUESTIONÁRIO PRELIMINAR NR-1"
-          ]
+          }
         }
       }
     }

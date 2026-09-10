@@ -419,12 +419,12 @@
     {
       "id": "campos-do-jordao",
       "name": "Campos do Jordão",
-      "description": "Modelo de declaração utilizado pela organização Campos do Jordão.",
-      "author": "Equipe Declare Já",
-      "version": "1.0",
-      "updated_at": "21/08/2026",
+      "description": "Modelo de declaração compartilhado pela organização Campos do Jordão.",
+      "author": "Pedro",
+      "version": "1.1",
+      "updated_at": "10/09/2026",
       "file_path": "templates/campos_do_jordao.docx",
-      "sha256": "a954e0f3150f25f5248372890474b997bd2f0f23d64d55ab4aa8c9187c230f02",
+      "sha256": "1a66316885fe66e239442df948a6235c4da12ce37c9d567a7df853f4ae88370c",
       "tags": [
         "declaração",
         "benefícios",
@@ -444,19 +444,19 @@
           "supports": {
             "seguro_vida": true,
             "telemedicina": true,
-            "odonto": false
+            "odonto": true
           },
           "defaults_manual": {
             "seguro_vida": true,
             "telemedicina": true,
-            "odonto": false
+            "odonto": true
           },
+          "fixed_items": [],
           "labels": {
-            "seguro_vida": "SEGURO DE VIDA EM GRUPO",
-            "telemedicina": "BENEFÍCIO DE ASSISTÊNCIA MÉDICA TELEMEDICINA",
+            "seguro_vida": "SEGURO DE VIDA em Grupo",
+            "telemedicina": "TELEMEDICINA",
             "odonto": "PLANO ODONTOLÓGICO"
-          },
-          "fixed_items": []
+          }
         }
       }
     },

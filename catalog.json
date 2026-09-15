@@ -921,11 +921,11 @@
       "id": "ribeirao-preto",
       "name": "Ribeirão Preto",
       "description": "Modelo de declaração compartilhado pela organização Ribeirão Preto.",
-      "author": "Equipe Declare Já",
-      "version": "1.1",
-      "updated_at": "24/08/2026",
+      "author": "Pedro",
+      "version": "1.2",
+      "updated_at": "15/09/2026",
       "file_path": "templates/ribeirao_preto.docx",
-      "sha256": "0eefbc444b037283b6448b6e33a88fd99253af0c20493327f11bbc4ca6192fed",
+      "sha256": "151d47ec82fbe810a2fc887ac3597f775d05d345508f07bccc6fbdbe3d48fba3",
       "tags": [
         "declaração",
         "benefícios",
@@ -949,18 +949,15 @@
           },
           "defaults_manual": {
             "seguro_vida": true,
-            "telemedicina": false,
+            "telemedicina": true,
             "odonto": true
           },
+          "fixed_items": [],
           "labels": {
-            "seguro_vida": "SEGURO DE VIDA em Grupo com as Assistências de PAGAMENTO DE CONTA DE CELULAR EM CASO DE DESEMPREGO",
+            "seguro_vida": "SEGURO DE VIDA em Grupo",
             "telemedicina": "TELEMEDICINA",
             "odonto": "PLANO ODONTOLÓGICO"
-          },
-          "fixed_items": [
-            "CESSÃO DE EQUIPAMENTOS HOSPITALARES",
-            "FORMULÁRIOS PRELIMINARES NR-01"
-          ]
+          }
         }
       }
     },

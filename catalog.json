@@ -1104,10 +1104,10 @@
       "name": "São José dos Campos",
       "description": "Modelo de declaração compartilhado pela organização São José dos Campos.",
       "author": "Pedro",
-      "version": "1.4",
+      "version": "1.5",
       "updated_at": "15/09/2026",
       "file_path": "templates/sao_jose_dos_campos.docx",
-      "sha256": "eb5bf1acafa79110671d449c68c7d2fea5670f09a8f82d21af37bcadb714218b",
+      "sha256": "31e575744c6ae446f653baa090f4f27055b95d4d761290fba40652230e1e8a97",
       "tags": [
         "declaração",
         "benefícios",

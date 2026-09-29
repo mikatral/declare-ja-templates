@@ -1144,6 +1144,52 @@
       }
     },
     {
+      "id": "sao-jose-dos-campos-nr-1",
+      "name": "São José dos Campos NR-1",
+      "description": "Modelo de declaração compartilhado pela organização São José dos Campos NR-1.",
+      "author": "Matheus",
+      "version": "1.0",
+      "updated_at": "29/09/2026",
+      "file_path": "templates/sao_jose_dos_campos_nr_1.docx",
+      "sha256": "13eeb5d2933ad71e170c323584a0ac9746a26532d208781f1a7370f84888c3cb",
+      "tags": [
+        "declaração",
+        "benefícios",
+        "São José dos Campos NR-1"
+      ],
+      "config": {
+        "anchor_texts": [
+          "O PLANO ESTÁ ATIVO PARA OS COLABORADORES ABAIXO:"
+        ],
+        "cidade_padrao": "Sao Paulo",
+        "signature_width_inches": 1.92,
+        "signature_align": "LEFT",
+        "signature_vertical": "BOTTOM",
+        "signature_offset_x_inches": -1,
+        "signature_offset_y_inches": 0,
+        "benefits": {
+          "supports": {
+            "seguro_vida": true,
+            "telemedicina": true,
+            "odonto": false
+          },
+          "defaults_manual": {
+            "seguro_vida": true,
+            "telemedicina": true,
+            "odonto": false
+          },
+          "labels": {
+            "seguro_vida": "SEGURO DE VIDA em Grupo",
+            "telemedicina": "TELEMEDICINA",
+            "odonto": "PLANO ODONTOLÓGICO"
+          },
+          "fixed_items": [
+            "FORMULÁRIOS PRELIMINARES NR-1"
+          ]
+        }
+      }
+    },
+    {
       "id": "sindinformatica",
       "name": "Sindinformatica",
       "description": "Modelo de declaração compartilhado pela organização Sindinformatica.",

@@ -782,8 +782,8 @@
       "name": "Piracicaba",
       "description": "Modelo de declaração compartilhado pela organização Piracicaba.",
       "author": "Marcos",
-      "version": "1.0",
-      "updated_at": "27/08/2026",
+      "version": "1.1",
+      "updated_at": "14/10/2026",
       "file_path": "templates/piracicaba.docx",
       "sha256": "5bf0e5c8037f05b3ce6a50f7b3ce86b1515a4e9e5f8b1be0e58c203a2abd5fd7",
       "tags": [
@@ -813,7 +813,8 @@
             "odonto": true
           },
           "fixed_items": [
-            "CESSÃO DE EQUIPAMENTOS HOSPITALARES"
+            "CESSÃO DE EQUIPAMENTOS HOSPITALARES",
+            "QUESTIONÁRIOS PRELIMINARES NR1"
           ],
           "labels": {
             "seguro_vida": "SEGURO DE VIDA em Grupo",

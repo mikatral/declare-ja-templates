@@ -555,10 +555,10 @@
       "name": "Franca",
       "description": "Modelo de declaração compartilhado pela organização Franca.",
       "author": "Marcos",
-      "version": "1.4",
+      "version": "1.5",
       "updated_at": "15/10/2026",
       "file_path": "templates/ribeirao_preto_9fa5134b.docx",
-      "sha256": "9fa5134b27069f00a0f8fbff5bfec3033a833780b8a56cc51504f0ec9f954913",
+      "sha256": "a446ef7630074b476c25d8c26cf6075ccf772a7c0ef493d6bc9e6b62623da213",
       "tags": [
         "declaração",
         "benefícios",

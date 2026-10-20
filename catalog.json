@@ -187,6 +187,52 @@
       }
     },
     {
+      "id": "ribeirao-preto-9fa5134b",
+      "name": "Araraquara",
+      "description": "Modelo de declaração compartilhado pela organização Araraquara.",
+      "author": "Matheus",
+      "version": "1.6",
+      "updated_at": "20/10/2026",
+      "file_path": "templates/ribeirao_preto_9fa5134b.docx",
+      "sha256": "556142739144b76b485ec0ff99eb2dcadcc2d01d8293778fb3a75adb0dc4ed31",
+      "tags": [
+        "declaração",
+        "benefícios",
+        "Araraquara"
+      ],
+      "config": {
+        "anchor_texts": [
+          "A Cesta de Beneficios esta com estes funcionarios ATIVOS :"
+        ],
+        "cidade_padrao": "Sao Paulo",
+        "signature_width_inches": 1.92,
+        "signature_align": "LEFT",
+        "signature_vertical": "BOTTOM",
+        "signature_offset_x_inches": -1,
+        "signature_offset_y_inches": 0,
+        "benefits": {
+          "supports": {
+            "seguro_vida": true,
+            "telemedicina": true,
+            "odonto": false
+          },
+          "defaults_manual": {
+            "seguro_vida": true,
+            "telemedicina": false,
+            "odonto": false
+          },
+          "fixed_items": [
+            "QUESTIONÁRIO PRELIMINAR NR1"
+          ],
+          "labels": {
+            "seguro_vida": "SEGURO DE VIDA em Grupo",
+            "telemedicina": "TELEMEDICINA",
+            "odonto": "PLANO ODONTOLÓGICO"
+          }
+        }
+      }
+    },
+    {
       "id": "barretos",
       "name": "Barretos",
       "description": "Modelo de declaração compartilhado pela organização Barretos.",
@@ -541,52 +587,6 @@
           },
           "fixed_items": [
             "ORIENTAÇÕES MÉDICAS POR TELEFONE E DEMAIS ASSISTÊNCIAS"
-          ],
-          "labels": {
-            "seguro_vida": "SEGURO DE VIDA em Grupo",
-            "telemedicina": "TELEMEDICINA",
-            "odonto": "PLANO ODONTOLÓGICO"
-          }
-        }
-      }
-    },
-    {
-      "id": "ribeirao-preto-9fa5134b",
-      "name": "Franca",
-      "description": "Modelo de declaração compartilhado pela organização Franca.",
-      "author": "Marcos",
-      "version": "1.5",
-      "updated_at": "15/10/2026",
-      "file_path": "templates/ribeirao_preto_9fa5134b.docx",
-      "sha256": "a446ef7630074b476c25d8c26cf6075ccf772a7c0ef493d6bc9e6b62623da213",
-      "tags": [
-        "declaração",
-        "benefícios",
-        "Franca"
-      ],
-      "config": {
-        "anchor_texts": [
-          "A Cesta de Beneficios esta com estes funcionarios ATIVOS:"
-        ],
-        "cidade_padrao": "Sao Paulo",
-        "signature_width_inches": 1.92,
-        "signature_align": "LEFT",
-        "signature_vertical": "BOTTOM",
-        "signature_offset_x_inches": -1,
-        "signature_offset_y_inches": 0,
-        "benefits": {
-          "supports": {
-            "seguro_vida": true,
-            "telemedicina": false,
-            "odonto": true
-          },
-          "defaults_manual": {
-            "seguro_vida": true,
-            "telemedicina": false,
-            "odonto": true
-          },
-          "fixed_items": [
-            "QUESTIONÁRIO PRELIMINAR NR1"
           ],
           "labels": {
             "seguro_vida": "SEGURO DE VIDA em Grupo",

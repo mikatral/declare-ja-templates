@@ -49,17 +49,17 @@
     },
     {
       "id": "ribeirao-preto-9fa5134b",
-      "name": "10027 Sao Jose Do Rio Preto",
-      "description": "Modelo de declaração compartilhado pela organização 10027 Sao Jose Do Rio Preto.",
+      "name": "10027 - Sao Jose Do Rio Preto",
+      "description": "Modelo de declaração compartilhado pela organização 10027 - Sao Jose Do Rio Preto.",
       "author": "Marcos",
-      "version": "1.9",
+      "version": "1.10",
       "updated_at": "21/10/2026",
       "file_path": "templates/ribeirao_preto_9fa5134b.docx",
       "sha256": "52ac5235e2a044c56edfc54aab6299ddaa6ce4540ddd7a7e659cfecf08fd9240",
       "tags": [
         "declaração",
         "benefícios",
-        "10027 Sao Jose Do Rio Preto"
+        "10027 - Sao Jose Do Rio Preto"
       ],
       "config": {
         "anchor_texts": [

@@ -6,7 +6,7 @@
       "name": "10027 Sao Jose Do Rio Preto",
       "description": "Modelo de declaração compartilhado pela organização 10027 Sao Jose Do Rio Preto.",
       "author": "Marcos",
-      "version": "1.8",
+      "version": "1.9",
       "updated_at": "21/10/2026",
       "file_path": "templates/ribeirao_preto_9fa5134b.docx",
       "sha256": "52ac5235e2a044c56edfc54aab6299ddaa6ce4540ddd7a7e659cfecf08fd9240",
@@ -29,7 +29,7 @@
           "supports": {
             "seguro_vida": true,
             "telemedicina": false,
-            "odonto": false
+            "odonto": true
           },
           "defaults_manual": {
             "seguro_vida": true,

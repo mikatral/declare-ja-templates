@@ -137,17 +137,17 @@
     },
     {
       "id": "aguas-de-lindoia-a0894895",
-      "name": "Aguas De Lindoia",
-      "description": "Modelo de declaração compartilhado pela organização Aguas De Lindoia.",
+      "name": "10059 - AGUAS DE LINDOIA",
+      "description": "Modelo de declaração compartilhado pela organização 10059 - AGUAS DE LINDOIA.",
       "author": "Marcos",
-      "version": "1.0",
-      "updated_at": "27/08/2026",
+      "version": "1.1",
+      "updated_at": "22/10/2026",
       "file_path": "templates/aguas_de_lindoia_a0894895.docx",
       "sha256": "a08948952daa38934b04cff2665141af4cdf4654b5f784a579d982f715691110",
       "tags": [
         "declaração",
         "benefícios",
-        "Aguas De Lindoia"
+        "10059 - AGUAS DE LINDOIA"
       ],
       "config": {
         "anchor_texts": [

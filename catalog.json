@@ -3,17 +3,17 @@
   "templates": [
     {
       "id": "ribeirao-preto-9fa5134b",
-      "name": "10003 - FRANCA",
-      "description": "Modelo de declaração compartilhado pela organização 10003 - FRANCA.",
+      "name": "10002 - RIBEIRAO PRETO",
+      "description": "Modelo de declaração compartilhado pela organização 10002 - RIBEIRAO PRETO.",
       "author": "Marcos",
-      "version": "1.13",
+      "version": "1.14",
       "updated_at": "22/10/2026",
       "file_path": "templates/ribeirao_preto_9fa5134b.docx",
-      "sha256": "a446ef7630074b476c25d8c26cf6075ccf772a7c0ef493d6bc9e6b62623da213",
+      "sha256": "9fa5134b27069f00a0f8fbff5bfec3033a833780b8a56cc51504f0ec9f954913",
       "tags": [
         "declaração",
         "benefícios",
-        "10003 - FRANCA"
+        "10002 - RIBEIRAO PRETO"
       ],
       "config": {
         "anchor_texts": [
@@ -28,16 +28,18 @@
         "benefits": {
           "supports": {
             "seguro_vida": true,
-            "telemedicina": false,
+            "telemedicina": true,
             "odonto": true
           },
           "defaults_manual": {
             "seguro_vida": true,
             "telemedicina": false,
-            "odonto": true
+            "odonto": false
           },
           "fixed_items": [
-            "QUESTIONÁRIO PRELIMINAR NR1"
+            "CESSÃO DE EQUIPAMENTO HOSPITALARES",
+            "QUESTIONÁRIO FORMULARIO NR1",
+            "PAGAMENTO DE CONTA DE CELULAR EM CASO DE DESEMPREGO"
           ],
           "labels": {
             "seguro_vida": "SEGURO DE VIDA em Grupo",

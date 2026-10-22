@@ -139,50 +139,6 @@
       }
     },
     {
-      "id": "ribeirao-preto-9fa5134b",
-      "name": "10027 - SAO JOSE DO RIO PRETO",
-      "description": "Modelo de declaração compartilhado pela organização 10027 - SAO JOSE DO RIO PRETO.",
-      "author": "Marcos",
-      "version": "1.11",
-      "updated_at": "22/10/2026",
-      "file_path": "templates/ribeirao_preto_9fa5134b.docx",
-      "sha256": "52ac5235e2a044c56edfc54aab6299ddaa6ce4540ddd7a7e659cfecf08fd9240",
-      "tags": [
-        "declaração",
-        "benefícios",
-        "10027 - SAO JOSE DO RIO PRETO"
-      ],
-      "config": {
-        "anchor_texts": [
-          "A Cesta de Beneficios esta com estes funcionarios ATIVOS:"
-        ],
-        "cidade_padrao": "Sao Paulo",
-        "signature_width_inches": 1.92,
-        "signature_align": "LEFT",
-        "signature_vertical": "BOTTOM",
-        "signature_offset_x_inches": -1,
-        "signature_offset_y_inches": 0,
-        "benefits": {
-          "supports": {
-            "seguro_vida": true,
-            "telemedicina": false,
-            "odonto": true
-          },
-          "defaults_manual": {
-            "seguro_vida": true,
-            "telemedicina": false,
-            "odonto": false
-          },
-          "fixed_items": [],
-          "labels": {
-            "seguro_vida": "SEGURO DE VIDA em Grupo",
-            "telemedicina": "TELEMEDICINA",
-            "odonto": "PLANO ODONTOLÓGICO"
-          }
-        }
-      }
-    },
-    {
       "id": "aracatuba",
       "name": "10047 - ARACATUBA",
       "description": "Modelo de declaração compartilhado pela organização 10047 - ARACATUBA.",
@@ -263,6 +219,52 @@
           },
           "fixed_items": [
             "CESSÃO DE EQUIPAMENTOS HOSPITALARES"
+          ],
+          "labels": {
+            "seguro_vida": "SEGURO DE VIDA em Grupo",
+            "telemedicina": "TELEMEDICINA",
+            "odonto": "PLANO ODONTOLÓGICO"
+          }
+        }
+      }
+    },
+    {
+      "id": "ribeirao-preto-9fa5134b",
+      "name": "10068 - ARARAQUARA",
+      "description": "Modelo de declaração compartilhado pela organização 10068 - ARARAQUARA.",
+      "author": "Marcos",
+      "version": "1.12",
+      "updated_at": "22/10/2026",
+      "file_path": "templates/ribeirao_preto_9fa5134b.docx",
+      "sha256": "3c553b7180e8be80e41bde8418f5f0ad9b7a35d287462bf298084dfa611191f2",
+      "tags": [
+        "declaração",
+        "benefícios",
+        "10068 - ARARAQUARA"
+      ],
+      "config": {
+        "anchor_texts": [
+          "A Cesta de Beneficios esta com estes funcionarios ATIVOS:"
+        ],
+        "cidade_padrao": "Sao Paulo",
+        "signature_width_inches": 1.92,
+        "signature_align": "LEFT",
+        "signature_vertical": "BOTTOM",
+        "signature_offset_x_inches": -1,
+        "signature_offset_y_inches": 0,
+        "benefits": {
+          "supports": {
+            "seguro_vida": true,
+            "telemedicina": true,
+            "odonto": false
+          },
+          "defaults_manual": {
+            "seguro_vida": true,
+            "telemedicina": false,
+            "odonto": false
+          },
+          "fixed_items": [
+            "QUESTIONÁRIO PRELIMINAR NR1"
           ],
           "labels": {
             "seguro_vida": "SEGURO DE VIDA em Grupo",

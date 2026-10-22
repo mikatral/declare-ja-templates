@@ -280,6 +280,53 @@
       }
     },
     {
+      "id": "piracicaba",
+      "name": "10015 - PIRACICABA",
+      "description": "Modelo de declaração compartilhado pela organização 10015 - PIRACICABA.",
+      "author": "Marcos",
+      "version": "1.2",
+      "updated_at": "22/10/2026",
+      "file_path": "templates/piracicaba.docx",
+      "sha256": "5bf0e5c8037f05b3ce6a50f7b3ce86b1515a4e9e5f8b1be0e58c203a2abd5fd7",
+      "tags": [
+        "declaração",
+        "benefícios",
+        "10015 - PIRACICABA"
+      ],
+      "config": {
+        "anchor_texts": [
+          "A Cesta de Beneficios esta ativa para os colaboradores abaixo:"
+        ],
+        "cidade_padrao": "Sao Paulo",
+        "signature_width_inches": 1.92,
+        "signature_align": "LEFT",
+        "signature_vertical": "BOTTOM",
+        "signature_offset_x_inches": -1,
+        "signature_offset_y_inches": 0,
+        "benefits": {
+          "supports": {
+            "seguro_vida": true,
+            "telemedicina": true,
+            "odonto": true
+          },
+          "defaults_manual": {
+            "seguro_vida": true,
+            "telemedicina": true,
+            "odonto": true
+          },
+          "fixed_items": [
+            "CESSÃO DE EQUIPAMENTOS HOSPITALARES",
+            "QUESTIONÁRIOS PRELIMINARES NR1"
+          ],
+          "labels": {
+            "seguro_vida": "SEGURO DE VIDA em Grupo",
+            "telemedicina": "TELEMEDICINA",
+            "odonto": "PLANO ODONTOLÓGICO"
+          }
+        }
+      }
+    },
+    {
       "id": "americana",
       "name": "10016 - AMERICANA",
       "description": "Modelo de declaração compartilhado pela organização 10016 - AMERICANA.",
@@ -817,53 +864,6 @@
           "fixed_items": [
             "CESSÃO DE EQUIPAMENTOS HOSPITALARES",
             "FORMULÁRIOS NR1"
-          ],
-          "labels": {
-            "seguro_vida": "SEGURO DE VIDA em Grupo",
-            "telemedicina": "TELEMEDICINA",
-            "odonto": "PLANO ODONTOLÓGICO"
-          }
-        }
-      }
-    },
-    {
-      "id": "piracicaba",
-      "name": "Piracicaba",
-      "description": "Modelo de declaração compartilhado pela organização Piracicaba.",
-      "author": "Marcos",
-      "version": "1.1",
-      "updated_at": "14/10/2026",
-      "file_path": "templates/piracicaba.docx",
-      "sha256": "5bf0e5c8037f05b3ce6a50f7b3ce86b1515a4e9e5f8b1be0e58c203a2abd5fd7",
-      "tags": [
-        "declaração",
-        "benefícios",
-        "Piracicaba"
-      ],
-      "config": {
-        "anchor_texts": [
-          "A Cesta de Beneficios esta ativa para os colaboradores abaixo:"
-        ],
-        "cidade_padrao": "Sao Paulo",
-        "signature_width_inches": 1.92,
-        "signature_align": "LEFT",
-        "signature_vertical": "BOTTOM",
-        "signature_offset_x_inches": -1,
-        "signature_offset_y_inches": 0,
-        "benefits": {
-          "supports": {
-            "seguro_vida": true,
-            "telemedicina": true,
-            "odonto": true
-          },
-          "defaults_manual": {
-            "seguro_vida": true,
-            "telemedicina": true,
-            "odonto": true
-          },
-          "fixed_items": [
-            "CESSÃO DE EQUIPAMENTOS HOSPITALARES",
-            "QUESTIONÁRIOS PRELIMINARES NR1"
           ],
           "labels": {
             "seguro_vida": "SEGURO DE VIDA em Grupo",

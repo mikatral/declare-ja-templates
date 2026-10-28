@@ -693,11 +693,11 @@
       "id": "ribeirao-preto-9fa5134b",
       "name": "10068 Araraquara",
       "description": "Modelo de declaração compartilhado pela organização 10068 Araraquara.",
-      "author": "Matheus",
-      "version": "1.15",
-      "updated_at": "22/10/2026",
+      "author": "Pedro",
+      "version": "1.16",
+      "updated_at": "28/10/2026",
       "file_path": "templates/ribeirao_preto_9fa5134b.docx",
-      "sha256": "556142739144b76b485ec0ff99eb2dcadcc2d01d8293778fb3a75adb0dc4ed31",
+      "sha256": "6c0a9ed884a612f4afa02f51e660096843324984edd7b1acad640006dde98558",
       "tags": [
         "declaração",
         "benefícios",
@@ -705,7 +705,7 @@
       ],
       "config": {
         "anchor_texts": [
-          "A Cesta de Beneficios esta com estes funcionarios ATIVOS :"
+          "O plano está com estes funcionarios ATIVOS :"
         ],
         "cidade_padrao": "Sao Paulo",
         "signature_width_inches": 1.92,

@@ -694,10 +694,10 @@
       "name": "10068 Araraquara",
       "description": "Modelo de declaração compartilhado pela organização 10068 Araraquara.",
       "author": "Pedro",
-      "version": "1.16",
-      "updated_at": "28/10/2026",
+      "version": "1.17",
+      "updated_at": "29/10/2026",
       "file_path": "templates/ribeirao_preto_9fa5134b.docx",
-      "sha256": "6c0a9ed884a612f4afa02f51e660096843324984edd7b1acad640006dde98558",
+      "sha256": "80c59fdb8b288efdece7140e79701471dec06fd8202c87f36d43c1516caa2769",
       "tags": [
         "declaração",
         "benefícios",

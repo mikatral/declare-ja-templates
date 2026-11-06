@@ -50,10 +50,10 @@
       "name": "10002 Rp Somente Odonto",
       "description": "Modelo de declaração compartilhado pela organização 10002 Rp Somente Odonto.",
       "author": "Marcos",
-      "version": "1.18",
+      "version": "1.19",
       "updated_at": "06/11/2026",
       "file_path": "templates/ribeirao_preto_9fa5134b.docx",
-      "sha256": "9fa5134b27069f00a0f8fbff5bfec3033a833780b8a56cc51504f0ec9f954913",
+      "sha256": "4cae4adcc8fdfb113e6da35c5f09a959b3d6b1e936c39b2d3c1d599701e0fad2",
       "tags": [
         "declaração",
         "benefícios",

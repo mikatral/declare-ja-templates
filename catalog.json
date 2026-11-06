@@ -46,6 +46,50 @@
       }
     },
     {
+      "id": "ribeirao-preto-9fa5134b",
+      "name": "10002 Rp Somente Odonto",
+      "description": "Modelo de declaração compartilhado pela organização 10002 Rp Somente Odonto.",
+      "author": "Marcos",
+      "version": "1.18",
+      "updated_at": "06/11/2026",
+      "file_path": "templates/ribeirao_preto_9fa5134b.docx",
+      "sha256": "9fa5134b27069f00a0f8fbff5bfec3033a833780b8a56cc51504f0ec9f954913",
+      "tags": [
+        "declaração",
+        "benefícios",
+        "10002 Rp Somente Odonto"
+      ],
+      "config": {
+        "anchor_texts": [
+          "A Cesta de Beneficios esta com estes funcionarios ATIVOS:"
+        ],
+        "cidade_padrao": "Sao Paulo",
+        "signature_width_inches": 1.92,
+        "signature_align": "LEFT",
+        "signature_vertical": "BOTTOM",
+        "signature_offset_x_inches": -1,
+        "signature_offset_y_inches": 0,
+        "benefits": {
+          "supports": {
+            "seguro_vida": false,
+            "telemedicina": false,
+            "odonto": true
+          },
+          "defaults_manual": {
+            "seguro_vida": false,
+            "telemedicina": false,
+            "odonto": true
+          },
+          "fixed_items": [],
+          "labels": {
+            "seguro_vida": "SEGURO DE VIDA em Grupo",
+            "telemedicina": "TELEMEDICINA",
+            "odonto": "PLANO ODONTOLÓGICO"
+          }
+        }
+      }
+    },
+    {
       "id": "barretos",
       "name": "10004 - BARRETOS",
       "description": "Modelo de declaração compartilhado pela organização 10004 - BARRETOS.",
@@ -681,50 +725,6 @@
           "fixed_items": [
             "QUESTIONÁRIO FORMULARIO NR1"
           ],
-          "labels": {
-            "seguro_vida": "SEGURO DE VIDA em Grupo",
-            "telemedicina": "TELEMEDICINA",
-            "odonto": "PLANO ODONTOLÓGICO"
-          }
-        }
-      }
-    },
-    {
-      "id": "ribeirao-preto-9fa5134b",
-      "name": "10068 Araraquara",
-      "description": "Modelo de declaração compartilhado pela organização 10068 Araraquara.",
-      "author": "Pedro",
-      "version": "1.17",
-      "updated_at": "29/10/2026",
-      "file_path": "templates/ribeirao_preto_9fa5134b.docx",
-      "sha256": "80c59fdb8b288efdece7140e79701471dec06fd8202c87f36d43c1516caa2769",
-      "tags": [
-        "declaração",
-        "benefícios",
-        "10068 Araraquara"
-      ],
-      "config": {
-        "anchor_texts": [
-          "O plano está com estes funcionarios ATIVOS :"
-        ],
-        "cidade_padrao": "Sao Paulo",
-        "signature_width_inches": 1.92,
-        "signature_align": "LEFT",
-        "signature_vertical": "BOTTOM",
-        "signature_offset_x_inches": -1,
-        "signature_offset_y_inches": 0,
-        "benefits": {
-          "supports": {
-            "seguro_vida": true,
-            "telemedicina": true,
-            "odonto": true
-          },
-          "defaults_manual": {
-            "seguro_vida": true,
-            "telemedicina": true,
-            "odonto": true
-          },
-          "fixed_items": [],
           "labels": {
             "seguro_vida": "SEGURO DE VIDA em Grupo",
             "telemedicina": "TELEMEDICINA",

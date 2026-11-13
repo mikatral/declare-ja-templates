@@ -190,10 +190,10 @@
       "name": "10012 - CAMPOS DO JORDAO",
       "description": "Modelo de declaração compartilhado pela organização 10012 - CAMPOS DO JORDAO.",
       "author": "Marcos",
-      "version": "1.8",
+      "version": "1.9",
       "updated_at": "13/11/2026",
       "file_path": "templates/campos_do_jordao_df1ce282.docx",
-      "sha256": "df1ce282c69efdf191ccf829bb1c2059940b360a55c3d947384c8b0aea87f79e",
+      "sha256": "a041b5c3cbcbe6760c658fff9582cdc71aa365db081364f83b5ea8e854d024e8",
       "tags": [
         "declaração",
         "benefícios",

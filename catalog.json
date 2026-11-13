@@ -237,10 +237,10 @@
       "name": "10012 - SAO JOSE DOS CAMPOS",
       "description": "Modelo de declaração compartilhado pela organização 10012 - SAO JOSE DOS CAMPOS.",
       "author": "Marcos",
-      "version": "1.3",
-      "updated_at": "22/10/2026",
+      "version": "1.4",
+      "updated_at": "13/11/2026",
       "file_path": "templates/sao_jose_dos_campos_cbc1db5d.docx",
-      "sha256": "cbc1db5d3da3f430f2f67dee3affbd079c257265823242c4952179296685890e",
+      "sha256": "25b0294069dd1a92225d474aedfc9002f0f71ed1d2277239b2a411d31c446485",
       "tags": [
         "declaração",
         "benefícios",
@@ -259,21 +259,22 @@
         "benefits": {
           "supports": {
             "seguro_vida": true,
+            "odonto": false,
             "telemedicina": true,
-            "odonto": false
+            "nr1": true
           },
           "defaults_manual": {
             "seguro_vida": true,
+            "odonto": false,
             "telemedicina": true,
-            "odonto": false
+            "nr1": true
           },
-          "fixed_items": [
-            "QUESTIONÁRIOS PRELIMINAR NR-1"
-          ],
+          "fixed_items": [],
           "labels": {
             "seguro_vida": "SEGURO DE VIDA em Grupo",
+            "odonto": "PLANO ODONTOLÓGICO",
             "telemedicina": "TELEMEDICINA",
-            "odonto": "PLANO ODONTOLÓGICO"
+            "nr1": "QUESTIONÁRIOS PRELIMINAR NR-1"
           }
         }
       }

@@ -1338,10 +1338,10 @@
       "name": "São José dos Campos NR-1",
       "description": "Modelo de declaração compartilhado pela organização São José dos Campos NR-1.",
       "author": "Matheus",
-      "version": "1.0",
-      "updated_at": "29/09/2026",
+      "version": "1.1",
+      "updated_at": "13/11/2026",
       "file_path": "templates/sao_jose_dos_campos_nr_1.docx",
-      "sha256": "13eeb5d2933ad71e170c323584a0ac9746a26532d208781f1a7370f84888c3cb",
+      "sha256": "947218f0daac03de58570e6970296a19a0a0e584bda254d256c68ccb7e29dfb6",
       "tags": [
         "declaração",
         "benefícios",
@@ -1360,22 +1360,23 @@
         "benefits": {
           "supports": {
             "seguro_vida": true,
+            "odonto": false,
             "telemedicina": true,
-            "odonto": false
+            "nr1": false
           },
           "defaults_manual": {
             "seguro_vida": true,
+            "odonto": false,
             "telemedicina": true,
-            "odonto": false
+            "nr1": false
           },
+          "fixed_items": [],
           "labels": {
             "seguro_vida": "SEGURO DE VIDA em Grupo",
+            "odonto": "PLANO ODONTOLÓGICO",
             "telemedicina": "TELEMEDICINA",
-            "odonto": "PLANO ODONTOLÓGICO"
-          },
-          "fixed_items": [
-            "FORMULÁRIOS PRELIMINARES NR-1"
-          ]
+            "nr1": "FORMULÁRIOS PRELIMINARES NR-1"
+          }
         }
       }
     },

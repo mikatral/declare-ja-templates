@@ -1338,7 +1338,7 @@
       "name": "São José dos Campos NR-1",
       "description": "Modelo de declaração compartilhado pela organização São José dos Campos NR-1.",
       "author": "Matheus",
-      "version": "1.1",
+      "version": "1.2",
       "updated_at": "13/11/2026",
       "file_path": "templates/sao_jose_dos_campos_nr_1.docx",
       "sha256": "947218f0daac03de58570e6970296a19a0a0e584bda254d256c68ccb7e29dfb6",
@@ -1362,7 +1362,7 @@
             "seguro_vida": true,
             "odonto": false,
             "telemedicina": true,
-            "nr1": false
+            "nr1": true
           },
           "defaults_manual": {
             "seguro_vida": true,

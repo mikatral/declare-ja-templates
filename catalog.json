@@ -46,6 +46,53 @@
       }
     },
     {
+      "id": "ribeirao-preto-9fa5134b",
+      "name": "10002 - RP Somente ODONTO",
+      "description": "Modelo de declaração compartilhado pela organização 10002 - RP Somente ODONTO.",
+      "author": "Marcos",
+      "version": "1.25",
+      "updated_at": "13/11/2026",
+      "file_path": "templates/ribeirao_preto_9fa5134b.docx",
+      "sha256": "9e2c1a2406282c1c65ae075b55e1d98207bfa8b654689d30e46fc34b64d41738",
+      "tags": [
+        "declaração",
+        "benefícios",
+        "10002 - RP Somente ODONTO"
+      ],
+      "config": {
+        "anchor_texts": [
+          "A Cesta de Beneficios esta com estes funcionarios ATIVOS:"
+        ],
+        "cidade_padrao": "Sao Paulo",
+        "signature_width_inches": 1.92,
+        "signature_align": "LEFT",
+        "signature_vertical": "BOTTOM",
+        "signature_offset_x_inches": -1,
+        "signature_offset_y_inches": 0,
+        "benefits": {
+          "supports": {
+            "seguro_vida": false,
+            "odonto": true,
+            "telemedicina": false,
+            "nr1": false
+          },
+          "defaults_manual": {
+            "seguro_vida": false,
+            "odonto": true,
+            "telemedicina": false,
+            "nr1": false
+          },
+          "fixed_items": [],
+          "labels": {
+            "seguro_vida": "SEGURO DE VIDA em Grupo",
+            "odonto": "PLANO ODONTOLÓGICO",
+            "telemedicina": "TELEMEDICINA",
+            "nr1": "FORMULÁRIOS PRELIMINARES NR-1"
+          }
+        }
+      }
+    },
+    {
       "id": "barretos",
       "name": "10004 - BARRETOS",
       "description": "Modelo de declaração compartilhado pela organização 10004 - BARRETOS.",
@@ -553,53 +600,6 @@
             "seguro_vida": "SEGURO DE VIDA em Grupo",
             "telemedicina": "TELEMEDICINA",
             "odonto": "PLANO ODONTOLÓGICO"
-          }
-        }
-      }
-    },
-    {
-      "id": "ribeirao-preto-9fa5134b",
-      "name": "10027 - SAO JOSE DO RIO PRETO",
-      "description": "Modelo de declaração compartilhado pela organização 10027 - SAO JOSE DO RIO PRETO.",
-      "author": "Marcos",
-      "version": "1.24",
-      "updated_at": "13/11/2026",
-      "file_path": "templates/ribeirao_preto_9fa5134b.docx",
-      "sha256": "e47e752c78b2640255bdf6a55a39197cad6d8f9f21975b294106e46e2617570e",
-      "tags": [
-        "declaração",
-        "benefícios",
-        "10027 - SAO JOSE DO RIO PRETO"
-      ],
-      "config": {
-        "anchor_texts": [
-          "A Cesta de Beneficios esta com estes funcionarios ATIVOS:"
-        ],
-        "cidade_padrao": "Sao Paulo",
-        "signature_width_inches": 1.92,
-        "signature_align": "LEFT",
-        "signature_vertical": "BOTTOM",
-        "signature_offset_x_inches": -1,
-        "signature_offset_y_inches": 0,
-        "benefits": {
-          "supports": {
-            "seguro_vida": true,
-            "odonto": true,
-            "telemedicina": false,
-            "nr1": false
-          },
-          "defaults_manual": {
-            "seguro_vida": true,
-            "odonto": false,
-            "telemedicina": false,
-            "nr1": false
-          },
-          "fixed_items": [],
-          "labels": {
-            "seguro_vida": "SEGURO DE VIDA em Grupo",
-            "odonto": "PLANO ODONTOLÓGICO",
-            "telemedicina": "TELEMEDICINA",
-            "nr1": "FORMULÁRIOS PRELIMINARES NR-1"
           }
         }
       }

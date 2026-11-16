@@ -236,9 +236,9 @@
       "id": "campos-do-jordao-df1ce282",
       "name": "10012 - CAMPOS DO JORDAO",
       "description": "Modelo de declaração compartilhado pela organização 10012 - CAMPOS DO JORDAO.",
-      "author": "Marcos",
-      "version": "1.9",
-      "updated_at": "13/11/2026",
+      "author": "Matheus",
+      "version": "1.10",
+      "updated_at": "16/11/2026",
       "file_path": "templates/campos_do_jordao_df1ce282.docx",
       "sha256": "a041b5c3cbcbe6760c658fff9582cdc71aa365db081364f83b5ea8e854d024e8",
       "tags": [

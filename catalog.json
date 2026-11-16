@@ -50,7 +50,7 @@
       "name": "10002 - RIBEIRÃO PRETO",
       "description": "Modelo de declaração compartilhado pela organização 10002 - RIBEIRÃO PRETO.",
       "author": "Matheus",
-      "version": "1.2",
+      "version": "1.3",
       "updated_at": "16/11/2026",
       "file_path": "templates/ribeir_o_preto_v2.docx",
       "sha256": "49292c4b296d3607d359b423d420cebe7031248c0e4f74d2bfd42e1b1289780f",
@@ -74,7 +74,7 @@
             "seguro_vida": true,
             "odonto": true,
             "telemedicina": true,
-            "nr1": false
+            "nr1": true
           },
           "defaults_manual": {
             "seguro_vida": true,

@@ -608,9 +608,9 @@
       "id": "aracatuba",
       "name": "10041 - BOTUCATU",
       "description": "Modelo de declaração compartilhado pela organização 10041 - BOTUCATU.",
-      "author": "Marcos",
-      "version": "1.5",
-      "updated_at": "22/10/2026",
+      "author": "Matheus",
+      "version": "1.6",
+      "updated_at": "16/11/2026",
       "file_path": "templates/aracatuba.docx",
       "sha256": "fec92eb8761e75297d04a132c2d9eb05fd28842254fe3909730d019bcd90bbff",
       "tags": [
@@ -631,19 +631,22 @@
         "benefits": {
           "supports": {
             "seguro_vida": true,
+            "odonto": true,
             "telemedicina": true,
-            "odonto": true
+            "nr1": false
           },
           "defaults_manual": {
             "seguro_vida": true,
+            "odonto": true,
             "telemedicina": true,
-            "odonto": true
+            "nr1": false
           },
           "fixed_items": [],
           "labels": {
             "seguro_vida": "SEGURO DE VIDA em Grupo",
+            "odonto": "PLANO ODONTOLÓGICO",
             "telemedicina": "TELEMEDICINA",
-            "odonto": "PLANO ODONTOLÓGICO"
+            "nr1": "FORMULÁRIOS PRELIMINARES NR-1"
           }
         }
       }

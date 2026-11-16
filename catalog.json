@@ -47,17 +47,17 @@
     },
     {
       "id": "ribeir-o-preto-v2",
-      "name": "10002 - Ribeirao Preto",
-      "description": "Modelo de declaração compartilhado pela organização 10002 - Ribeirao Preto.",
+      "name": "10002 - RIBEIRÃO PRETO",
+      "description": "Modelo de declaração compartilhado pela organização 10002 - RIBEIRÃO PRETO.",
       "author": "Matheus",
-      "version": "1.1",
+      "version": "1.2",
       "updated_at": "16/11/2026",
       "file_path": "templates/ribeir_o_preto_v2.docx",
       "sha256": "49292c4b296d3607d359b423d420cebe7031248c0e4f74d2bfd42e1b1289780f",
       "tags": [
         "declaração",
         "benefícios",
-        "10002 - Ribeirao Preto"
+        "10002 - RIBEIRÃO PRETO"
       ],
       "config": {
         "anchor_texts": [

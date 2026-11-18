@@ -748,17 +748,17 @@
     },
     {
       "id": "ribeirao-preto-9fa5134b",
-      "name": "10068 Araraquara",
-      "description": "Modelo de declaração compartilhado pela organização 10068 Araraquara.",
+      "name": "10068 - Araraquara",
+      "description": "Modelo de declaração compartilhado pela organização 10068 - Araraquara.",
       "author": "Matheus",
-      "version": "1.26",
-      "updated_at": "16/11/2026",
+      "version": "1.27",
+      "updated_at": "18/11/2026",
       "file_path": "templates/ribeirao_preto_9fa5134b.docx",
       "sha256": "02f1b571252d803bb3755e98bb2a760b46dbc70ea761118401e511d720e5a3eb",
       "tags": [
         "declaração",
         "benefícios",
-        "10068 Araraquara"
+        "10068 - Araraquara"
       ],
       "config": {
         "anchor_texts": [

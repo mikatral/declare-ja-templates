@@ -1210,6 +1210,53 @@
       }
     },
     {
+      "id": "pacto-sao-paulo",
+      "name": "Pacto SAO PAULO",
+      "description": "Modelo de declaração compartilhado pela organização Pacto SAO PAULO.",
+      "author": "Matheus",
+      "version": "1.0",
+      "updated_at": "18/11/2026",
+      "file_path": "templates/pacto_sao_paulo.docx",
+      "sha256": "1b55b9af0ba016bb3c03c09794c649864a6667d2b77643b8a30f212b5aa6b72f",
+      "tags": [
+        "declaração",
+        "benefícios",
+        "Pacto SAO PAULO"
+      ],
+      "config": {
+        "anchor_texts": [
+          "O PLANO ESTÁ ATIVO PARA OS COLABORADORES ABAIXO:"
+        ],
+        "cidade_padrao": "Sao Paulo",
+        "signature_width_inches": 1.92,
+        "signature_align": "LEFT",
+        "signature_vertical": "BOTTOM",
+        "signature_offset_x_inches": -1,
+        "signature_offset_y_inches": 0,
+        "benefits": {
+          "supports": {
+            "seguro_vida": true,
+            "odonto": false,
+            "telemedicina": false,
+            "nr1": false
+          },
+          "defaults_manual": {
+            "seguro_vida": true,
+            "odonto": false,
+            "telemedicina": false,
+            "nr1": false
+          },
+          "fixed_items": [],
+          "labels": {
+            "seguro_vida": "SEGURO DE VIDA em Grupo",
+            "odonto": "PLANO ODONTOLÓGICO",
+            "telemedicina": "TELEMEDICINA",
+            "nr1": "FORMULÁRIOS PRELIMINARES NR-1"
+          }
+        }
+      }
+    },
+    {
       "id": "piracicaba-v2",
       "name": "Piracicaba V2",
       "description": "Modelo de declaração compartilhado pela organização Piracicaba V2.",

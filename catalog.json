@@ -751,10 +751,10 @@
       "name": "10068 - Araraquara",
       "description": "Modelo de declaração compartilhado pela organização 10068 - Araraquara.",
       "author": "Matheus",
-      "version": "1.29",
+      "version": "1.30",
       "updated_at": "23/11/2026",
       "file_path": "templates/ribeirao_preto_9fa5134b.docx",
-      "sha256": "d01c5a2aaae4a55a27f582be8eb5016b809a503ed0acd0b17ce388cf0c1cb439",
+      "sha256": "e581749b147a17917cb14cd9e1f5a9ba55186143c5a372e6cad7556cf3aa46c1",
       "tags": [
         "declaração",
         "benefícios",
@@ -799,6 +799,50 @@
       },
       "history": [
         {
+          "version": "1.29",
+          "author": "Matheus",
+          "updated_at": "23/11/2026",
+          "file_path": "templates/history/ribeirao-preto-9fa5134b/1-29-d01c5a2a.docx",
+          "sha256": "d01c5a2aaae4a55a27f582be8eb5016b809a503ed0acd0b17ce388cf0c1cb439",
+          "config": {
+            "anchor_texts": [
+              "A Cesta de Beneficios esta com estes funcionarios ATIVOS :"
+            ],
+            "cidade_padrao": "Sao Paulo",
+            "signature_width_inches": 1.92,
+            "signature_align": "LEFT",
+            "signature_vertical": "BOTTOM",
+            "signature_offset_x_inches": -1,
+            "signature_offset_y_inches": 0,
+            "benefits": {
+              "supports": {
+                "seguro_vida": true,
+                "odonto": true,
+                "telemedicina": true,
+                "nr1": true
+              },
+              "defaults_manual": {
+                "seguro_vida": true,
+                "odonto": true,
+                "telemedicina": true,
+                "nr1": false
+              },
+              "fixed_items": [],
+              "labels": {
+                "seguro_vida": "SEGURO DE VIDA em Grupo",
+                "odonto": "PLANO ODONTOLÓGICO",
+                "telemedicina": "TELEMEDICINA",
+                "nr1": "FORMULÁRIOS PRELIMINARES NR-1"
+              }
+            },
+            "closing_layout": {
+              "date_position": "ABOVE_SIGNATURE",
+              "date_spacing": "NORMAL",
+              "date_alignment": "LEFT"
+            }
+          }
+        },
+        {
           "version": "1.28",
           "author": "Matheus",
           "updated_at": "23/11/2026",
@@ -839,45 +883,6 @@
               "date_position": "ABOVE_SIGNATURE",
               "date_spacing": "NORMAL",
               "date_alignment": "LEFT"
-            }
-          }
-        },
-        {
-          "version": "1.27",
-          "author": "Matheus",
-          "updated_at": "18/11/2026",
-          "file_path": "templates/history/ribeirao-preto-9fa5134b/1-27-02f1b571.docx",
-          "sha256": "02f1b571252d803bb3755e98bb2a760b46dbc70ea761118401e511d720e5a3eb",
-          "config": {
-            "anchor_texts": [
-              "A Cesta de Beneficios esta com estes funcionarios ATIVOS :"
-            ],
-            "cidade_padrao": "Sao Paulo",
-            "signature_width_inches": 1.92,
-            "signature_align": "LEFT",
-            "signature_vertical": "BOTTOM",
-            "signature_offset_x_inches": -1,
-            "signature_offset_y_inches": 0,
-            "benefits": {
-              "supports": {
-                "seguro_vida": true,
-                "odonto": true,
-                "telemedicina": true,
-                "nr1": true
-              },
-              "defaults_manual": {
-                "seguro_vida": true,
-                "odonto": true,
-                "telemedicina": true,
-                "nr1": false
-              },
-              "fixed_items": [],
-              "labels": {
-                "seguro_vida": "SEGURO DE VIDA em Grupo",
-                "odonto": "PLANO ODONTOLÓGICO",
-                "telemedicina": "TELEMEDICINA",
-                "nr1": "FORMULÁRIOS PRELIMINARES NR-1"
-              }
             }
           }
         }

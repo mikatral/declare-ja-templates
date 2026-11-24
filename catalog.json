@@ -96,6 +96,59 @@
       }
     },
     {
+      "id": "10002-rp-somente-odonto",
+      "name": "10002 - RP Somente ODONTO",
+      "description": "Modelo de declaração compartilhado pela organização 10002 - RP Somente ODONTO.",
+      "author": "Marcos",
+      "version": "1.0",
+      "updated_at": "24/11/2026",
+      "file_path": "templates/10002_rp_somente_odonto.docx",
+      "sha256": "9e2c1a2406282c1c65ae075b55e1d98207bfa8b654689d30e46fc34b64d41738",
+      "tags": [
+        "declaração",
+        "benefícios",
+        "10002 - RP Somente ODONTO"
+      ],
+      "config": {
+        "anchor_texts": [
+          "A Cesta de Beneficios esta com estes funcionarios ATIVOS:"
+        ],
+        "cidade_padrao": "Sao Paulo",
+        "signature_width_inches": 1.92,
+        "signature_align": "LEFT",
+        "signature_vertical": "BOTTOM",
+        "signature_offset_x_inches": -1,
+        "signature_offset_y_inches": 0,
+        "benefits": {
+          "supports": {
+            "seguro_vida": false,
+            "odonto": true,
+            "telemedicina": false,
+            "nr1": false
+          },
+          "defaults_manual": {
+            "seguro_vida": false,
+            "odonto": true,
+            "telemedicina": false,
+            "nr1": false
+          },
+          "fixed_items": [],
+          "labels": {
+            "seguro_vida": "SEGURO DE VIDA em Grupo",
+            "odonto": "PLANO ODONTOLÓGICO",
+            "telemedicina": "TELEMEDICINA",
+            "nr1": "FORMULÁRIOS PRELIMINARES NR-1"
+          }
+        },
+        "closing_layout": {
+          "date_position": "ABOVE_SIGNATURE",
+          "date_spacing": "NORMAL",
+          "date_alignment": "LEFT"
+        }
+      },
+      "history": []
+    },
+    {
       "id": "10003-franca",
       "name": "10003 - FRANCA",
       "description": "Modelo de declaração compartilhado pela organização 10003 - FRANCA.",

@@ -1114,17 +1114,17 @@
     },
     {
       "id": "ribeirao-preto-9fa5134b",
-      "name": "10068 - Araraquara",
-      "description": "Modelo de declaração compartilhado pela organização 10068 - Araraquara.",
-      "author": "Matheus",
-      "version": "1.30",
-      "updated_at": "23/11/2026",
+      "name": "10068 - ARARAQUARA",
+      "description": "Modelo de declaração compartilhado pela organização 10068 - ARARAQUARA.",
+      "author": "Marcos",
+      "version": "1.31",
+      "updated_at": "25/11/2026",
       "file_path": "templates/ribeirao_preto_9fa5134b.docx",
       "sha256": "e581749b147a17917cb14cd9e1f5a9ba55186143c5a372e6cad7556cf3aa46c1",
       "tags": [
         "declaração",
         "benefícios",
-        "10068 - Araraquara"
+        "10068 - ARARAQUARA"
       ],
       "config": {
         "anchor_texts": [
@@ -1165,11 +1165,11 @@
       },
       "history": [
         {
-          "version": "1.29",
+          "version": "1.30",
           "author": "Matheus",
           "updated_at": "23/11/2026",
-          "file_path": "templates/history/ribeirao-preto-9fa5134b/1-29-d01c5a2a.docx",
-          "sha256": "d01c5a2aaae4a55a27f582be8eb5016b809a503ed0acd0b17ce388cf0c1cb439",
+          "file_path": "templates/history/ribeirao-preto-9fa5134b/1-30-e581749b.docx",
+          "sha256": "e581749b147a17917cb14cd9e1f5a9ba55186143c5a372e6cad7556cf3aa46c1",
           "config": {
             "anchor_texts": [
               "A Cesta de Beneficios esta com estes funcionarios ATIVOS :"
@@ -1209,11 +1209,11 @@
           }
         },
         {
-          "version": "1.28",
+          "version": "1.29",
           "author": "Matheus",
           "updated_at": "23/11/2026",
-          "file_path": "templates/history/ribeirao-preto-9fa5134b/1-28-5a6ab1e6.docx",
-          "sha256": "5a6ab1e695f0a9f77e26c3a4e8baf3d2396bc1bd9ee50a96e9a04aaa32b8702d",
+          "file_path": "templates/history/ribeirao-preto-9fa5134b/1-29-d01c5a2a.docx",
+          "sha256": "d01c5a2aaae4a55a27f582be8eb5016b809a503ed0acd0b17ce388cf0c1cb439",
           "config": {
             "anchor_texts": [
               "A Cesta de Beneficios esta com estes funcionarios ATIVOS :"

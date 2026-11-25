@@ -1117,10 +1117,10 @@
       "name": "10068 - ARARAQUARA",
       "description": "Modelo de declaração compartilhado pela organização 10068 - ARARAQUARA.",
       "author": "Marcos",
-      "version": "1.31",
+      "version": "1.32",
       "updated_at": "25/11/2026",
       "file_path": "templates/ribeirao_preto_9fa5134b.docx",
-      "sha256": "e581749b147a17917cb14cd9e1f5a9ba55186143c5a372e6cad7556cf3aa46c1",
+      "sha256": "46f235f34ff38042999215235bbbf3e82f5a00133eadc3c245c3165fd3e9fc15",
       "tags": [
         "declaração",
         "benefícios",
@@ -1165,10 +1165,10 @@
       },
       "history": [
         {
-          "version": "1.30",
-          "author": "Matheus",
-          "updated_at": "23/11/2026",
-          "file_path": "templates/history/ribeirao-preto-9fa5134b/1-30-e581749b.docx",
+          "version": "1.31",
+          "author": "Marcos",
+          "updated_at": "25/11/2026",
+          "file_path": "templates/history/ribeirao-preto-9fa5134b/1-31-e581749b.docx",
           "sha256": "e581749b147a17917cb14cd9e1f5a9ba55186143c5a372e6cad7556cf3aa46c1",
           "config": {
             "anchor_texts": [
